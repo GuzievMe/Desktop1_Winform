@@ -27,7 +27,7 @@ namespace WinFormsHomeApp1
         {
             Form3 f3 = new();
             f3.Show();
-            //Visible = false;
+            Visible = false;
         }
     }
 }

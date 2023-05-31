@@ -26,7 +26,7 @@ namespace WinFormsHomeApp1
         {
             Form2 f2 = new();
             f2.Show();
-            //Visible = false;
+            Visible = false;
         }
 
         private void Form1_MouseUp(object sender, EventArgs e)
